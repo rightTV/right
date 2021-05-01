@@ -600,7 +600,6 @@ Animax,mitv://147.135.39.171:9906/5dea9391000dacc55a02c39228854fcb.ts
 Viu TV6,mitv://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
 Now直播,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 港台备用频道,#genre#
-备用频道,#genre#
 J2,http://xiaojun.cyou/7108live/iptv/?key=8af357abba09d0b1809922c06a0b9aa2&tid=view&id=j2
 明珠台,http://xiaojun.cyou/7108live/iptv/?key=8af357abba09d0b1809922c06a0b9aa2&tid=view&id=mz
 无线新闻台,http://xiaojun.cyou/7108live/iptv/?key=8af357abba09d0b1809922c06a0b9aa2&tid=view&id=wxxw
